@@ -14,18 +14,6 @@ public class JavaBasics<x> {
         for (int i : arr) {
             System.out.println(i);
         }
-
-    InputStream inputStream=new FileInputStream("C:\\Users\\sridh\\Desktop\\Springboot notes.docx");
-    System.out.println(inputStream.available());
-
-
-//    String name="TestLambdaExample";
-//    Runnable run1=()->System.out.println(name);
-//    String name1="";
-//    name1=name.toUpperCase();
-//    Runnable run2=()->System.out.println(name1);
-//    run1.run();
-
     try{
         System.out.println("1");
         System.exit(0);
