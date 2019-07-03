@@ -46,6 +46,9 @@ public class JavaBasics<x> {
                 System.out.println("Nothing from the option is selected");
         }
     }
+    //Java 8: features more o vcome
+    //Lambda Expressions
+    //
 
 
 }
